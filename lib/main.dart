@@ -3,6 +3,7 @@ import 'package:notes_app/views/notes_view.dart';
 
 void main() {
   runApp(const NotesApp());
+  print("hello world");
 }
 
 class NotesApp extends StatelessWidget {
